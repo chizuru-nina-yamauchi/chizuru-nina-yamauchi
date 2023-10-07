@@ -20,10 +20,10 @@ I'm a producer(singer-songwriter), and I use [Ableton Live Suit](https://www.abl
 My mother tongue is Japanese, and speak English and German as well(working on my Spanish slowly).
 Reach me out via [Linkedin](https://www.linkedin.com/in/chizuru-nina-yamauchi-3772b4116/) or other social media! :)
 
-My Interests
+"My Interests"
 
- [MadMapper](https://madmapper.com/) 
- [TouchDesigner](https://derivative.ca/) 
- [Pure Data](https://puredata.info/) 
- [JUCE](https://juce.com/) 
- [Ableton Live Suit](https://www.ableton.com/en/live/)
+-[MadMapper](https://madmapper.com/) 
+-[TouchDesigner](https://derivative.ca/) 
+-[Pure Data](https://puredata.info/) 
+-[JUCE](https://juce.com/) 
+-[Ableton Live Suit](https://www.ableton.com/en/live/)
