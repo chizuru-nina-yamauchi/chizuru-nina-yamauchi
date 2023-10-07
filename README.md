@@ -22,8 +22,8 @@ Reach me out via [Linkedin](https://www.linkedin.com/in/chizuru-nina-yamauchi-37
 
 "My Interests"
 
--[MadMapper](https://madmapper.com/) 
--[TouchDesigner](https://derivative.ca/) 
--[Pure Data](https://puredata.info/) 
--[JUCE](https://juce.com/) 
--[Ableton Live Suit](https://www.ableton.com/en/live/)
+- [MadMapper](https://madmapper.com/) 
+- [TouchDesigner](https://derivative.ca/) 
+- [Pure Data](https://puredata.info/) 
+- [JUCE](https://juce.com/) 
+- [Ableton Live Suit](https://www.ableton.com/en/live/)
