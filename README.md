@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I`m currently learning Java in the online course, and trying to learn by myself(YouTube tutorials) visual programming with Pure Data, and C ++/Juce to create Audio Plug-Ins.
-I'm a producer(singer-songwriter) as well, and I use Ableton Live Suit to produce my songs.
+I`m currently learning Java in the online course, and trying to learn by myself(YouTube tutorials) visual programming with [Pure Data](https://puredata.info/), and [JUCE](https://juce.com/) to create Audio Plug-Ins.
+I'm a producer(singer-songwriter), and I use Ableton Live Suit to produce my songs.
 My mother tongue is Japanese, and speak English and German as well(working on my Spanish slowly).
-Reach me out via [Linkedin](https://www.linkedin.com/in/chizuru-nina-yamauchi-3772b4116/) or other social media!
+Reach me out via [Linkedin](https://www.linkedin.com/in/chizuru-nina-yamauchi-3772b4116/) or other social media! :)
