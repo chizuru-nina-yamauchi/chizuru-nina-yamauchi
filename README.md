@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a producer/singer-songwriter(Song Example: [Check on YouTube](https://youtu.be/HMfoVSGNIHU?feature=shared), and I use [Ableton Live Suit](https://www.ableton.com/en/live/) to produce my songs with Audio-Plugins.
 I'm currently learning Java in online course, and trying to learn by myself visual programming with [Pure Data](https://puredata.info/), [JUCE](https://juce.com/) and C++ to create Audio Plug-Ins, audio related things.
 
-Reach me out via [Linkedin](https://www.linkedin.com/in/chizuru-nina-yamauchi-3772b4116/) or other social media! :)
+Reach me out via [Linkedin](https://www.linkedin.com/in/chizuru-nina-yamauchi-3772b4116/) or other social media! 📫:)
 
 "Education"
 - Java (Java, Database, APIs, Framework, Cloud Service) : 2023 September - current : Digital Career Institute, Berlin Germany
@@ -46,13 +46,15 @@ Reach me out via [Linkedin](https://www.linkedin.com/in/chizuru-nina-yamauchi-37
 - [TouchDesigner](https://derivative.ca/) 
 - [Pure Data](https://puredata.info/) 
 
+#### Some Fact👯
+
 "Where I lived and worked"
 - 2019 - Current: Berlin, Germany
 - 2018-2019: Toronto, Canada
 - 2017 - 2018: Melbourne, Australia
 - Till 2017: Osaka, Japan
 
-"Short stays"
+"Short stays🌱"
 - 2022: Alicante, Spain (1 month)
 - 2016: California, USA (5 weeks)
 - 2016: New York, USA (3 weeks)
