@@ -21,9 +21,8 @@ I'm currently learning Java in online course, and trying to learn by myself visu
 Reach me out via [Linkedin](https://www.linkedin.com/in/chizuru-nina-yamauchi-3772b4116/) or other social media! 📫:)
 
 "Education"
-- Java (HTML, CSS, Git, Terminal, Java, Database, APIs, Framework, Cloud Service) : 2023 September - current : Digital Career Institute, Berlin Germany
+- Java (Git/Terminal/Java/Database/Framework/APIs/Cloud Service) : 2023 September - current : Digital Career Institute, Berlin Germany
 - HTML/CSS/Online Marketing :2023 July : Digital Career Institute, Berlin Germany
-- German : 2023 September - Current (B2 Training) : Lingoda/ 2022 March - July (B1 Certificate): iFS, Berlin Germany
 - Law (Law and public policy): 2009-2013 Kwansei Gakuin Univercity, Hyogo  Japan
 
 "Language"
@@ -33,11 +32,11 @@ Reach me out via [Linkedin](https://www.linkedin.com/in/chizuru-nina-yamauchi-37
 - Spanish (Beginner)
 
 "Skill related to audio and music"
-- Piano (private lesson since 3 years old for 10 years)
-- Vocal (Jazz vocal private lesson for 1 year in 2016)
-- Guitar (Self taught)
-- Bass (Self taught)
-- Ableton Live Suit(Self taught)
+- Piano
+- Vocal
+- Guitar
+- Bass
+- Ableton Live Suit
 
 "My Interests"
 
