@@ -41,7 +41,10 @@ Reach me out via [Linkedin](https://www.linkedin.com/in/chizuru-nina-yamauchi-37
 
 "My Interests"
 
-- [Ableton Live Suit](https://www.ableton.com/en/live/)
+- DAW
+- Audio Plugins
+- C++
+- DSP
 - [JUCE](https://juce.com/) 
 - [MadMapper](https://madmapper.com/) 
 - [TouchDesigner](https://derivative.ca/) 
