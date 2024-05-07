@@ -22,13 +22,12 @@ Reach me out via [Linkedin](https://www.linkedin.com/in/chizuru-nina-yamauchi-37
 
 "Education"
 - Java (Git/Terminal/Java/Database/Framework/APIs/Cloud Service) : 2023 September - current : Digital Career Institute, Berlin Germany
-- HTML/CSS/Online Marketing :2023 July : Digital Career Institute, Berlin Germany
 - Law (Law and public policy): 2009-2013 Kwansei Gakuin Univercity, Hyogo  Japan
 
 "Language"
 - Japanese (Native)
 - English (Well handled)
-- German (B2 /B1 with Certificate)
+- German (B2 )
 - Spanish (Beginner)
 
 "Skill related to audio and music"
@@ -48,17 +47,3 @@ Reach me out via [Linkedin](https://www.linkedin.com/in/chizuru-nina-yamauchi-37
 - [MadMapper](https://madmapper.com/) 
 - [TouchDesigner](https://derivative.ca/) 
 - [Pure Data](https://puredata.info/) 
-
-#### Some Fact👯
-
-"Where I lived and worked"
-- 2019 - Current: Berlin, Germany
-- 2018-2019: Toronto, Canada
-- 2017 - 2018: Melbourne, Australia
-- Till 2017: Osaka, Japan
-
-"Short stays🌱"
-- 2022: Alicante, Spain (1 month)
-- 2016: California, USA (5 weeks)
-- 2016: New York, USA (3 weeks)
-
