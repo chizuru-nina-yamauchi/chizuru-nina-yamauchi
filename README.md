@@ -20,10 +20,6 @@ I'm currently learning Java at DCI, and trying to learn by myself C++ to create 
 
 Reach me out via [Linkedin](https://www.linkedin.com/in/chizuru-nina-yamauchi-3772b4116/) or other social media! 📫:)
 
-"Education"
-- Java (Git/Terminal/Java/Database/Framework/HTML/APIs/Cloud Service) : 2023 September - current : Digital Career Institute, Berlin Germany
-- Law (Law and public policy): 2009-2013 Kwansei Gakuin Univercity, Hyogo  Japan
-
 "My Interests"
 
 - DAW
