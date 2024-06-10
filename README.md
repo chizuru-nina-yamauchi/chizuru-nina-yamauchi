@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a producer/singer-songwriter(Song Example: [Check on YouTube](https://youtu.be/HMfoVSGNIHU?feature=shared), and I currently and mainly use [Ableton Live Suit](https://www.ableton.com/en/live/) to produce my songs with Audio-Plugins.
-I'm currently learning Java at DCI, and trying to learn by myself C++ to create Audio Plug-Ins, audio related things in the future, and python.
-
-Reach me out via [Linkedin](https://www.linkedin.com/in/chizuru-nina-yamauchi-3772b4116/) or other social media! 📫:)
 
 "My Interests"
 
@@ -30,7 +26,7 @@ Reach me out via [Linkedin](https://www.linkedin.com/in/chizuru-nina-yamauchi-37
 - Ruby
 - DSP
 - Machine Learning
-- [JUCE](https://juce.com/)
+- JUCE framework
 
 "Language"
 - Japanese (Native)
@@ -45,4 +41,4 @@ Reach me out via [Linkedin](https://www.linkedin.com/in/chizuru-nina-yamauchi-37
 - Bass
 - Ableton Live Suit
 
-
+Song Example: [Check on YouTube](https://youtu.be/HMfoVSGNIHU?feature=shared)
