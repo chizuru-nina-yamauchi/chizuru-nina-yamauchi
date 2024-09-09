@@ -56,31 +56,22 @@ Here are some ideas to get you started:
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) -->
 
 
+## My Interests
+![DAW](https://img.shields.io/badge/DAW-000000?style=for-the-badge&logo=audiomack&logoColor=white)
+![Audio Plugins](https://img.shields.io/badge/Audio_Plugins-FF0000?style=for-the-badge&logo=audioengine&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![DSP](https://img.shields.io/badge/DSP-6DB33F?style=for-the-badge&logo=dsp&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![JUCE Framework](https://img.shields.io/badge/JUCE_Framework-2C3E50?style=for-the-badge&logo=juce&logoColor=white)
 
-"My Interests"
+## Skills Related to Audio and Music
+![Ableton Live](https://img.shields.io/badge/Ableton_Live_Suite-000000?style=for-the-badge&logo=abletonlive&logoColor=white)
+![Piano](https://img.shields.io/badge/Piano-FF4500?style=for-the-badge&logo=musicbrainz&logoColor=white)
+![Vocal](https://img.shields.io/badge/Vocal-DAA520?style=for-the-badge&logo=spotify&logoColor=white)
 
-- DAW
-- Audio Plugins
-- Java
-- C++
-- Python
-- Ruby
-- DSP
-- Machine Learning
-- JUCE framework
-  and more.
+## Music Work: Click the Spotify icon below(It will bring you to my artist page!)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/6u6f4IPkzOgD3XrmDtoNKb?si=lq6i8WtaRHSPqxZxH6p0AQ)
 
-"Language"
-- Japanese (Native)
-- English (Well handled)
-- German (B2 )
-- Spanish (Beginner)
-
-"Skill related to audio and music"
-- Piano
-- Vocal
-- Guitar
-- Bass
-- Ableton Live Suit
-
-Song Example: [Check on YouTube](https://youtu.be/HMfoVSGNIHU?feature=shared)
