@@ -19,6 +19,8 @@ A Java and JavaScript (Tone.js) project for creating music on google browser.
 1. **Solar System Visualizer**  
    C++ project visualizing the solar system.  
    ![Solar System Visualizer](https://github.com/user-attachments/assets/a9d68a02-da6e-4133-8acc-762107fdbb60)
+
+   ![CLion Console](https://github.com/user-attachments/assets/64b1eb05-b340-4707-a2bc-1eaea8484a7c)
     
    [![Solar System Visualizer Repository](https://img.shields.io/badge/-View%20Repo-blue?style=for-the-badge&logo=github)](https://github.com/chizuru-nina-yamauchi/Solar_System_Visualizer_Animation_Application)
 
@@ -62,11 +64,14 @@ A Java and JavaScript (Tone.js) project for creating music on google browser.
    [![ATM System Repository](https://img.shields.io/badge/-View%20Repo-blue?style=for-the-badge)](https://github.com/chizuru-nina-yamauchi/Automated-Teller-Machine-ATM-System)
 
 8. **Dining Philosophers Problem**  
-   Java project with multi-threading.  
+   Java project with multi-threading.
+   
+   ![Dining Philosophers Problem](https://github.com/user-attachments/assets/1adc7626-be11-4b38-ae70-d7b001ea7a08)
+   
    [![Dining Philosophers Problem Repository](https://img.shields.io/badge/-View%20Repo-green?style=for-the-badge)](https://github.com/chizuru-nina-yamauchi/Dining-Philosophers-Problem-Concurrency-Problem-multi-threading)
 
-9. **Dijkstra's Algorithm**  
-   Java project with algorithm implementation.  
+10. **Dijkstra's Algorithm**  
+    Java project with algorithm implementation.  
    [![Dijkstra's Algorithm Repository](https://img.shields.io/badge/-View%20Repo-red?style=for-the-badge)](https://github.com/chizuru-nina-yamauchi/path-finding-algorithm)
 
 ---
