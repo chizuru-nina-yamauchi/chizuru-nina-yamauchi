@@ -46,7 +46,7 @@ A Java and JavaScript (Tone.js) project for creating music on google browser.
    [![Expense Tracker Repository](https://img.shields.io/badge/-View%20Repo-green?style=for-the-badge)](https://github.com/chizuru-nina-yamauchi/Expense_Tracker_Application)
 
 4. **Student Enrollment System**  
-   Java project with Spring Boot, PostgreSQL, JPA, Junit Test (Mockito), and Maven.  
+   Java project with Spring Boot, PostgreSQL, JPA, and Maven.  
    [![Student Enrollment System Repository](https://img.shields.io/badge/-View%20Repo-purple?style=for-the-badge)](https://github.com/chizuru-nina-yamauchi/Student_Enrollment_System)
 
 5. **Carbon Emission Calculator**  
@@ -115,7 +115,7 @@ Here are some of the tools and technologies I use:
 
 ## 🎧 **My Interests**
 
-I'm passionate about digital audio, programming, and machine learning!
+I'm passionate about digital audio, programming, and interested in machine learning!
 
 ![DAW](https://img.shields.io/badge/DAW-000000?style=for-the-badge&logo=audiomack&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
