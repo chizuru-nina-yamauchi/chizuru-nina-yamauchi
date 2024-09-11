@@ -10,7 +10,7 @@ A Java and JavaScript (Tone.js) project for creating music on google browser.
 
 ![Music Box Demo](https://github.com/user-attachments/assets/72b929a7-9bf9-493f-bdc6-9f05855fbe09) 
 
-[Music Box Repository](https://github.com/chizuru-nina-yamauchi/Music_Box_Create_Your_Music_GroupWork)
+[![Music Box Repository](https://img.shields.io/badge/-View%20Repo-red?style=for-the-badge&logo=github)](https://github.com/chizuru-nina-yamauchi/Music_Box_Create_Your_Music_GroupWork)
 
 ---
 
@@ -20,13 +20,14 @@ A Java and JavaScript (Tone.js) project for creating music on google browser.
    C++ project visualizing the solar system.  
    ![Solar System Visualizer](https://github.com/user-attachments/assets/a9d68a02-da6e-4133-8acc-762107fdbb60)
     
-   [Repository Link](https://github.com/chizuru-nina-yamauchi/Solar_System_Visualizer_Animation_Application)
+   [![Solar System Visualizer Repository](https://img.shields.io/badge/-View%20Repo-blue?style=for-the-badge&logo=github)](https://github.com/chizuru-nina-yamauchi/Solar_System_Visualizer_Animation_Application)
 
 1. **Matrix Screen Imitation**  
    C++ project imitating the Matrix screen effect.  
    ![Matrix Screen Imitation](https://github.com/user-attachments/assets/9f4ee58a-9197-4c9b-aedb-541684455630)
+
+    [![Matrix Screen Imitation Repository](https://img.shields.io/badge/-View%20Repo-green?style=for-the-badge&logo=github)](https://github.com/chizuru-nina-yamauchi/Matrix_Screen)
    
-   [Repository Link](https://github.com/chizuru-nina-yamauchi/Matrix_Screen)
 
 ---
 
