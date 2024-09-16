@@ -10,6 +10,12 @@ A Java and JavaScript (Tone.js) project for creating music on google browser.
 
 ![Music Box Demo](https://github.com/user-attachments/assets/72b929a7-9bf9-493f-bdc6-9f05855fbe09) 
 
+Watch the demo with sounds on YouTube(Click below!):
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=HuAGmk34Vzc)
+
+
+
 [![Music Box Repository](https://img.shields.io/badge/-View%20Repo-red?style=for-the-badge&logo=github)](https://github.com/chizuru-nina-yamauchi/Music_Box_Create_Your_Music_GroupWork)
 
 ---
