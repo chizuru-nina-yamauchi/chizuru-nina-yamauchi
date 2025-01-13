@@ -135,7 +135,7 @@ Here are some of the tools and technologies I use:
 
 ## 🎧 **My Interests**
 
-I'm passionate about digital audio, programming, and interested in machine learning!
+I'm passionate about music and technology.
 
 ![DAW](https://img.shields.io/badge/DAW-000000?style=for-the-badge&logo=audiomack&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -151,6 +151,6 @@ I'm passionate about digital audio, programming, and interested in machine learn
 
 ## 🎵 **Music Work**
 
-Click the Spotify icon below to visit my artist page!
+Click the Spotify icon below to visit my artist page! I am a singer-songwriter/producer/mixing-mastering-engineer.
 
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/6u6f4IPkzOgD3XrmDtoNKb?si=lq6i8WtaRHSPqxZxH6p0AQ)
