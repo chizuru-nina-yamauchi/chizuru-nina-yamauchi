@@ -1,16 +1,19 @@
 # 👋 Thanks for Visiting My Page!
 
+I learned Java fundamental/JUnit test/PostgreSQL/Spring Boot at Digital Career Institute and currently learning C at 42 Berlin.
 Here's an overview of my projects and what I'm passionate about!
 
 ---
 
 ## 🎵 **Music Box Inspired by Ableton Learning Platform**
 
-A Java and JavaScript (Tone.js) project for creating music on google browser.
+A Java and JavaScript (Tone.js) project with PostgreSQL and Sprint Boot for creating a web app on Google browser.
+This was a final project in a group for Digital Career Institute.
+My teammate wrote the business logic to sign up/login/forgot password feature with Spring Security, and I was responsible for the implementation of the music-box app page.
 
 ![Music Box Demo](https://github.com/user-attachments/assets/72b929a7-9bf9-493f-bdc6-9f05855fbe09) 
 
-Watch the demo with sounds on YouTube(Click below!):
+Watch the demo of the part I developed on YouTube(Click below!):
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=HuAGmk34Vzc)
 
@@ -21,6 +24,8 @@ Watch the demo with sounds on YouTube(Click below!):
 ---
 
 ## 🚀 **C++ Projects**
+
+I did this project to learn C++.
 
 1. **Solar System Visualizer**  
    C++ project visualizing the solar system.  
@@ -40,6 +45,8 @@ Watch the demo with sounds on YouTube(Click below!):
 ---
 
 ## ☕ **Java Projects**
+
+These are the assignments I had to do while I was learning Java at Digital Career Institute.
 
 1. **Online Shop with Currency Converter API**  
    Java project with Spring Security, PostgreSQL, Thymeleaf, and API.  
@@ -85,7 +92,7 @@ Watch the demo with sounds on YouTube(Click below!):
 ## 🐍 **Python Projects**
 
 1. **Port Scanner**  
-   A Python project using TCP connection.  
+   A Python project I did to learn Python using TCP connection.  
    [![Port Scanner Repository](https://img.shields.io/badge/-View%20Repo-blue?style=for-the-badge)](https://github.com/chizuru-nina-yamauchi/Port_Scanner_with_IP_address)
 
 ---
