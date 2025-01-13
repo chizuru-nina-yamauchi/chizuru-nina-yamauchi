@@ -5,11 +5,11 @@ Here's an overview of my projects and what I'm passionate about!
 
 ---
 
-## 🎵 **Music Box Inspired by Ableton Learning Platform**
+## 🎵 **Music Box(Sampler) Inspired by Ableton Learning Platform**
 
 A Java and JavaScript (Tone.js) project with PostgreSQL and Sprint Boot for creating a web app on Google browser.
-This was a final project in a group for Digital Career Institute.
-My teammate wrote the business logic to sign up/login/forgot password feature with Spring Security, and I was responsible for the implementation of the music-box app page.
+This was a final project in a group at Digital Career Institute.
+My teammate wrote the business logic for sign up/login/forgot password feature with Spring Security, and I was responsible for the implementation of the music-box(Sampler) business logic.
 
 ![Music Box Demo](https://github.com/user-attachments/assets/72b929a7-9bf9-493f-bdc6-9f05855fbe09) 
 
