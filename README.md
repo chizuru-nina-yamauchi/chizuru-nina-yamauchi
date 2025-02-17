@@ -1,5 +1,3 @@
-# 👋 Thanks for Visiting My Page!
-
 I learned Java fundamental/JUnit test/PostgreSQL/Spring Boot at Digital Career Institute and currently learning C at 42 Berlin.
 Here's an overview of my projects and what I'm passionate about!
 
